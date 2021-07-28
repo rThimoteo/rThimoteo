@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rThimoteo
-- 👀 I’m interested in BackEnd Development
-- 🌱 I’m currently learning PHP and SQL
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning PHP, JS
 - 📫 Email: rodrigomoteo@gmail.com
 
 <!---
